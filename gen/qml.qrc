@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/images/iai.png</file>
+        <file>qml/GenerationPage.qml</file>
+        <file>qml/StudentBadge.qml</file>
+        <file>qml/SponsorshipView.qml</file>
+        <file>qml/icons/retry.png</file>
+        <file>qml/icons/save.png</file>
+        <file>qml/SearchStudentBadget.qml</file>
+        <file>qml/images/avatar.jpg</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
